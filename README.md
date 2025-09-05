@@ -14,9 +14,8 @@ ClipXpert is a new system that automates the extraction of relevant clips from Y
 ---
 
 ## 🚀 System Overview
-*(You can add your system architecture image or a demo GIF here)*
 
-![ClipXpert System Diagram](path/to/your/image.png)
+![ClipXpert System Diagram](Block_Diagram.png)
 
 ---
 
@@ -31,7 +30,7 @@ ClipXpert is a new system that automates the extraction of relevant clips from Y
 ## 📄 Citation
 If you find our work useful for your research, please consider citing our paper.
 
-**Paper Link:** [**https://ieeexplore.ieee.org/document/10969233**](https://ieeexplore.ieee.org/document/10969233)
+**Paper Link:** [**Click Here**](https://ieeexplore.ieee.org/document/10969233)
 
 ### BibTeX
 ```bibtex
