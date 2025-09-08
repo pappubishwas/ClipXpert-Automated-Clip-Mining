@@ -26,6 +26,18 @@ ClipXpert is a new system that automates the extraction of relevant clips from Y
 * **Sentiment Analysis:** Analyzes YouTube comments to gauge audience engagement and reception for specific topics.
 
 ---
+## 🎬 Output Video Example
+
+Here’s an example of **ClipXpert** in action for keyword-based video extraction and subtitle generation:
+
+- **Original Video:** [17-minute full video](https://youtu.be/VQluL1IRDbY?si=PRtD4hCodDnf8_-)  
+- **Keyword Highlight:** `IELTS`  
+- **Description:** The output video automatically extracts all lines containing the keyword **“IELTS”** spoken by **Fastrack IELTS**. ClipXpert generated a **27-second highlighted video** containing these segments with subtitles and timestamps.  
+- **Watch the Highlighted Output:** [Highlighted Video]([https://youtu.be/BUxIEMN66HU](https://youtu.be/TPN4vs6UqFU))
+
+---
+
+
 
 ## 📄 Citation
 If you find our work useful for your research, please consider citing our paper.
