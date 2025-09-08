@@ -33,7 +33,7 @@ Here’s an example of **ClipXpert** in action for keyword-based video extractio
 - **Original Video:** [17-minute full video](https://youtu.be/VQluL1IRDbY?si=PRtD4hCodDnf8_-)  
 - **Keyword Highlight:** `IELTS`  
 - **Description:** The output video automatically extracts all lines containing the keyword **“IELTS”** spoken by **Fastrack IELTS**. ClipXpert generated a **27-second highlighted video** containing these segments with subtitles and timestamps.  
-- **Watch the Highlighted Output:** [Highlighted Video](https://youtu.be/BUxIEMN66HU)
+- **Watch the Highlighted Output:** [Highlighted Video]([https://youtu.be/BUxIEMN66HU](https://youtu.be/TPN4vs6UqFU))
 
 ---
 
